@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achmad Dzaki</h1>
+<h1 align="center">Hi 👋, I'm zky</h1>
 <h3 align="center">A passionate fullstack developer and networking</h3>
 
 - ⚡ Fun fact **I'm still a newbie**
